@@ -10,9 +10,14 @@ Namer App is a Flutter application that generates cool-sounding names and allows
 
 ## Screenshots
 
-![assets/main-view.png](assets/main-view.png)
-![assets/favorites-view.png](assets/favorites-view.png)
-![assets/no-favorites-yet.png](assets/no-favorites-yet.png)
+<div style="display: flex; width: 200px;">
+    <img src="assets/main-view.png" alt="Main View" style="flex: 1; padding: 5px;">
+    <img src="assets/favorites-view.png" alt="Favorites View" style="flex: 1; padding: 5px;">
+    <img src="assets/no-favorites-yet.png" alt="No Favorites Yet" style="flex: 1; padding: 5px;">
+</div>
+<div style="display: flex;">
+</div>
+
 
 ## Installation
 
